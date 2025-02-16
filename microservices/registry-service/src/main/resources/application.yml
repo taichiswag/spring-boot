@@ -1,0 +1,11 @@
+server:
+  port: 7171
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+
+
+eureka.client.registerWithEureka: false
+eureka.client.fetchRegistry: false
